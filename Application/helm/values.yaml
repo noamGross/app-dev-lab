@@ -29,5 +29,6 @@ test: UNHealthy
 github:
   user: 'noamGross'
   token: empty-pass
-  url: 'https://github.com/noamGross/app-dev-lab/issues'
+  url: 'https://api.github.com/repos/noamGross/app-dev-lab/issues'
+  
   

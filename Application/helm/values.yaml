@@ -25,3 +25,9 @@ liveness:
     failureThreshold: 3
 
 test: Healthy
+
+github:
+  user: 'noamGross'
+  token: empty-pass
+  url: 'https://github.com/noamGross/app-dev-lab/issues'
+  

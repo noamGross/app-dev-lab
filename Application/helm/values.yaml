@@ -24,4 +24,4 @@ liveness:
     successThreshold: 1
     failureThreshold: 3
 
-test: Healthy22
+test: Healthy

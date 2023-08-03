@@ -24,7 +24,7 @@ liveness:
     successThreshold: 1
     failureThreshold: 3
 
-test: UNHealthy
+test: Healthy
 
 github:
   user: 'noamGross'
